@@ -21,7 +21,11 @@ Utilizes a CNN architecture for accurate image classification:
 ### Model Saving and Conversion
 
 ## Requirements
--
--
--
+To run the code, the following libraries are required
+- TensorFlow
+- Keras
+- Matplotlib
+- PIL
+- os
+- google.colab
 
